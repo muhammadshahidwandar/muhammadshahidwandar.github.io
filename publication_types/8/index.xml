@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Feryal Behbahani</title>
+    <link>https://feryal.github.io/publication_types/8/</link>
+    <description>Recent content in 8 on Feryal Behbahani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Feryal Behbahani</copyright>
+    <lastBuildDate>Wed, 15 Jul 2020 22:00:19 +0100</lastBuildDate>
+    <atom:link href="/publication_types/8/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acme: A Research Framework for Distributed Reinforcement Learning</title>
+      <link>https://feryal.github.io/publication/acme/</link>
+      <pubDate>Wed, 15 Jul 2020 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/acme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privileged Information Dropout in Reinforcement Learning</title>
+      <link>https://feryal.github.io/publication/privinfodropout/</link>
+      <pubDate>Wed, 15 Jan 2020 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/privinfodropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation</title>
+      <link>https://feryal.github.io/publication/analysis/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Meta-Learning with Shrinkage</title>
+      <link>https://feryal.github.io/publication/shrinkage/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/shrinkage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
